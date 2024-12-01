@@ -1,0 +1,72 @@
+2024-12-01T19:26:36.475392+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2024-12-01T19:26:36.484503+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2024-12-01T19:26:36.484503+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Peptic ulcers are open sores on the inner lining of the stomach and the upper part of the small intestine. The most common symptom of a peptic ulcer is stomach pain.
+
+Peptic ulcers include:
+
+    Gastric ulcers, which appear on the inside of the stomach.
+    Duodenal ulcers, which appear on the inside of the upper part of the small intestine, called the duodenum.
+
+The most common causes of peptic ulcers are infection with the germ Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These include ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve).
+
+Stress and spicy foods do not cause peptic ulcers. But they can make symptoms worse.
+
+Summary:
+2024-12-01T19:26:36.745070+0530 ERROR [SummarizeTool] Error during Ollama call: model requires more system memory (3.5 GiB) than is available (3.4 GiB). Retry 1/2
+2024-12-01T19:26:36.746340+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2024-12-01T19:26:36.747436+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2024-12-01T19:26:36.747436+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Peptic ulcers are open sores on the inner lining of the stomach and the upper part of the small intestine. The most common symptom of a peptic ulcer is stomach pain.
+
+Peptic ulcers include:
+
+    Gastric ulcers, which appear on the inside of the stomach.
+    Duodenal ulcers, which appear on the inside of the upper part of the small intestine, called the duodenum.
+
+The most common causes of peptic ulcers are infection with the germ Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These include ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve).
+
+Stress and spicy foods do not cause peptic ulcers. But they can make symptoms worse.
+
+Summary:
+2024-12-01T19:26:36.951861+0530 ERROR [SummarizeTool] Error during Ollama call: model requires more system memory (3.5 GiB) than is available (3.4 GiB). Retry 2/2
+2024-12-01T19:26:36.954881+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from Ollama after 2 retries.
+2024-12-01T19:27:36.557239+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2024-12-01T19:27:36.557239+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2024-12-01T19:27:36.561606+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Peptic ulcers are open sores on the inner lining of the stomach and the upper part of the small intestine. The most common symptom of a peptic ulcer is stomach pain.
+
+Peptic ulcers include:
+
+    Gastric ulcers, which appear on the inside of the stomach.
+    Duodenal ulcers, which appear on the inside of the upper part of the small intestine, called the duodenum.
+
+The most common causes of peptic ulcers are infection with the germ Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These include ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve).
+
+Stress and spicy foods do not cause peptic ulcers. But they can make symptoms worse.
+
+
+Summary:
+2024-12-01T19:27:36.734742+0530 ERROR [SummarizeTool] Error during Ollama call: model requires more system memory (3.5 GiB) than is available (3.3 GiB). Retry 1/2
+2024-12-01T19:27:36.735405+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2024-12-01T19:27:36.736479+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2024-12-01T19:27:36.736479+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Peptic ulcers are open sores on the inner lining of the stomach and the upper part of the small intestine. The most common symptom of a peptic ulcer is stomach pain.
+
+Peptic ulcers include:
+
+    Gastric ulcers, which appear on the inside of the stomach.
+    Duodenal ulcers, which appear on the inside of the upper part of the small intestine, called the duodenum.
+
+The most common causes of peptic ulcers are infection with the germ Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These include ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve).
+
+Stress and spicy foods do not cause peptic ulcers. But they can make symptoms worse.
+
+
+Summary:
+2024-12-01T19:27:36.924800+0530 ERROR [SummarizeTool] Error during Ollama call: model requires more system memory (3.5 GiB) than is available (3.3 GiB). Retry 2/2
+2024-12-01T19:27:36.924800+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from Ollama after 2 retries.
